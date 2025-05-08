@@ -18,9 +18,8 @@ A keychain shaped to look like a big drill that uses a bistable multivibrator ci
 # BOM
 - 1 Battery holder
 - 2 NPN tranistors
-- 2 20Ω resistors
-- 2 700Ω resistors
-- 2 1kΩ resistors
+- 2 420Ω resistors
+- 4 4.2kΩ resistors
 - 1 mini motor disc
 - 2 push buttons
 
