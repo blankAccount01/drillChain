@@ -3,7 +3,8 @@ A keychain shaped to look like a big drill that uses a bistable multivibrator ci
 
 # Schematic
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/79b8d173-c342-4243-a823-7d110632371e" alt="description" width="700">
+  <img src="https://github.com/user-attachments/assets/fa68ed04-0229-410f-846f-37a3cbeeb337" alt="description" width="700">
+
 </p>
 
 # PCB
